@@ -1,0 +1,22 @@
+{
+  "name": "express-regexp-to-path",
+  "version": "0.1.0",
+  "description": "Reconstruct path expression from url and express router stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrunkenInfant/express-regexp-to-path.git"
+  },
+  "author": "Oscar Olsson <osse.olsson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrunkenInfant/express-regexp-to-path/issues"
+  },
+  "homepage": "https://github.com/DrunkenInfant/express-regexp-to-path#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
